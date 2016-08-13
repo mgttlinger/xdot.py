@@ -50,6 +50,8 @@ Requirements
 ============
 
  * [Python](http://www.python.org/download/) (2.6 or 2.7)
+ 
+ * [Python GObject](wiki.gnome.org/PyGObject) (for GTK 3)
 
  * [PyGTK](http://www.pygtk.org/downloads.html) (2.10 or greater)
 
